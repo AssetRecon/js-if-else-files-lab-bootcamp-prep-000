@@ -1,5 +1,5 @@
 var name = "Susan";
-var height = praseInt("70");
+var height = 70;
 
 
 
